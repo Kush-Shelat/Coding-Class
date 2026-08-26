@@ -1,0 +1,13 @@
+print("Welcome to Tic-Tac-Toe!")
+print("Place your mark by typing the X (row) and Y (column) values from 0 to 2.")
+
+#true statement
+
+while True:
+    print_board()
+    print(f"\nPlayer {current_player}'s turn.")
+    
+    # Coordinate input 
+
+   
+      
