@@ -1,0 +1,7 @@
+# Use Congrats as word to convert
+
+# Takes lowercase input and converts it to uppercase
+word = input("Enter the word: ")
+
+#Printing Uppercase
+print(word.upper())
