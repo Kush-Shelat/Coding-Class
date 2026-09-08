@@ -1,0 +1,10 @@
+# Takes a number as input and calculates its square root
+
+
+num = float(input("Enter a number: "))
+
+# Using math operator "**", to show sqauring the term
+sqrt = num ** 0.5
+
+#Printing
+print("Square root:", sqrt)
