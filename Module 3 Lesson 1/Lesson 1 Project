@@ -1,0 +1,8 @@
+# Get a single character input from the user
+char = input("Enter a character: ")
+
+# Check if the character is a letter (lowercase or uppercase)
+if (char >= 'a' and char <= 'z') or (char >= 'A' and char <= 'Z'):
+    print(char, "is an alphabet.")
+else:
+    print(char, "is NOT an alphabet.")
